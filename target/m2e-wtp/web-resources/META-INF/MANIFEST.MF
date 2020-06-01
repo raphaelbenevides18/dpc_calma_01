@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: dpc_calma_01
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: raphael
+Implementation-Vendor-Id: br.com.rlb
+Build-Jdk: 1.8.0_252
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/dpc_calma_01
+Created-By: Maven Integration for Eclipse
+
