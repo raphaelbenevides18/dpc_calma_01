@@ -14,7 +14,7 @@ public class Documento implements Serializable {
 	private static final long serialVersionUID = 1L;
 
 	@Id
-	@Column(name = "NU_GRU")
+	@Column(name = "NU_GRU", unique=true)
 	private String gru;
 
 	@Column(name = "NOME_DOC")
