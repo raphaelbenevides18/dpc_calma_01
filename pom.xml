@@ -66,6 +66,14 @@
 			<version>1.10.19</version>
 			<scope>test</scope>
 		</dependency>
+		
+		<!-- Banco h2 para testes -->
+		<dependency>
+			<groupId>com.h2database</groupId>
+			<artifactId>h2</artifactId>
+			<scope>test</scope>
+		</dependency>
+
 	</dependencies>
 
 	<properties>

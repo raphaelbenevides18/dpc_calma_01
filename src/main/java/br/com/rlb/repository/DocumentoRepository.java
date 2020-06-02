@@ -9,8 +9,6 @@ import br.com.rlb.entity.Documento;
 
 @Repository
 public interface DocumentoRepository extends JpaRepository<Documento, Long>{
-	
 
 	public  Optional<Documento> findByGru(String gru);
-    public  Optional<Documento> findById(Long id);  
 }
