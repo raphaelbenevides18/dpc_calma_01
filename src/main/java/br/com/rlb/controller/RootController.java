@@ -10,6 +10,6 @@ public class RootController {
 
 	@GetMapping
 	public String hello() {
-		return "Endpoint para consulta GET: /buscar/{numero da gru}";
+		return "Endpoints para consulta GET: /buscar/{numero da gru}";
 	}
 }
